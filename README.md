@@ -1,5 +1,5 @@
 # Simple Task App
-## This is a simple task app built with React most basic hooks like useState, useEffect and useContext. Styled with Tailwind CSS. The app allows you to add, edit, and delete tasks.
+## This is a simple task app built with React most basic hooks like `useState`, `useEffect` and `useContext`. Styled with Tailwind CSS. The app allows you to add, edit, and delete tasks.
 
 ## Features
 * Add new tasks
